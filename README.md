@@ -1,2 +1,2 @@
 # BlinkDetection
-Blink Detection with EmguCV
+Blink Detection with EmguCV.
